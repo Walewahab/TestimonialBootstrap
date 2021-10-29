@@ -1,0 +1,7 @@
+:root {
+    --mainDark: #000000;
+    --mainGrey: rgb(119, 119, 119);
+    --mainLightGrey: rgba(172, 172, 172);
+    --mainWhite: #fff;
+    --mainBlue: #007bff;
+}
